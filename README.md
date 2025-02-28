@@ -1,4 +1,4 @@
-# blinket
+# WhatsApp UI
 
 A new Flutter project.
 
